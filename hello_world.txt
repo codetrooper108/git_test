@@ -1,1 +1,3 @@
 "My first steps with Git and the Command Line. Exciting!"
+
+"My second line of code to be committed."
