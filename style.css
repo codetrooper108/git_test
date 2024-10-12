@@ -1,0 +1,31 @@
+* {
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdfa66;
+}
+
+div {
+}
+
+.box-one {
+  margin: 15px;
+  padding: 15px;
+  width: 150px;
+  height: 150px;
+  background-color: #1ac0c6;
+  border: 25px solid #fb7756;
+}
+
+.box-two {
+  margin: 15px;
+  padding: 15px;
+  width: 150px;
+  height: 150px;
+  background-color: #fb7756;
+  border: 25px solid #1ac0c6;
+}
